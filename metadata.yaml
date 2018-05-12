@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34170'
     url: http://www.gutenberg.org/2009/agents/34170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35207#The-Courier-of-the-Ozarks
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
 identifiers:
