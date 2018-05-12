@@ -1,0 +1,35 @@
+_repo: The-Courier-of-the-Ozarks_35207
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: De Lay, H. S.
+    aliases:
+    - DeLay, H. S.
+    - Lay, H. S. de
+    gutenberg_agent_id: '37532'
+    url: http://www.gutenberg.org/2009/agents/37532
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunn, Byron A. (Byron Archibald)
+    alias: Dunn, Byron Archibald
+    birthdate: 1842
+    deathdate: 1926
+    gutenberg_agent_id: '34170'
+    url: http://www.gutenberg.org/2009/agents/34170
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Missouri -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+title: The Courier of the Ozarks
+url: http://www.gutenberg.org/ebooks/35207
